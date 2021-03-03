@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SportsStore"
+    }
+  },
+  "defaultProject": "SportsStore",
+  "cli": {
+    "analytics": "314f43fd-aafb-44d0-aa77-307fa501e5bc"
+  }
 }
